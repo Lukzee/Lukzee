@@ -27,8 +27,8 @@ I specialize in **full-stack web, mobile, and desktop app development**, **AI/ML
 ## 📩 Let's Connect!  
 - **Email:** tennwhiterose@gmail.com  
 - **WhatsApp:** +2348148355580  
-- **Twitter:** [@l9z1c0d9](https://twitter.com/l9z1c0d9)  
-- **Website:** [SoftBrein](https://softbrein.tech/), [ComfyLearn](https://comfylearn.site/), [ComfyLearn Blog](https://blog.comfylearn.site/index.php)  
+- **Twitter:** [@l9z1c0d9](https://x.com/l9z1c0d9), [@ComfyLearn](https://x.com/ComfyLearn), [@SoftBrein](https://x.com/SoftBrein)  
+- **Website:** [SoftBrein](https://softbrein.tech/), [ComfyLearn](https://comfylearn.site/), [ComfyLearn Blog](https://blog.comfylearn.site/)  
 
 ---
 
@@ -36,6 +36,13 @@ I specialize in **full-stack web, mobile, and desktop app development**, **AI/ML
 - **Repositories:** 166+  
 - **Contributions:** Constantly innovating  
 - **Followers:** 15+  
+
+![Lukzee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukzee&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukzee&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukzee&theme=radical)
+
 
 Let's build the future with technology! 🚀
 
