@@ -2,7 +2,7 @@
 ### Full Stack Software Engineer | AI & ML Enthusiast | Tech Entrepreneur  
 
 🚀 **Passionate about building innovative tech solutions**  
-I specialize in **full-stack web, mobile, and desktop app development**, **AI/ML-powered applications**, and **software architecture**, crafting scalable and intelligent systems. As the founder of **[SoftBrein](https://softbrein.tech/)**, I am dedicated to solving real-world problems with technology.
+I specialize in **full-stack web, mobile, and desktop app development**, **AI/ML-powered applications**, and **software architecture**, crafting scalable and intelligent systems. As the founder of **[SoftBrein](https://softbrein.com/)**, I am dedicated to solving real-world problems with technology.
 
 ---
 
@@ -28,7 +28,7 @@ I specialize in **full-stack web, mobile, and desktop app development**, **AI/ML
 - **Email:** tennwhiterose@gmail.com  
 - **WhatsApp:** +2348148355580  
 - **Twitter:** [@l9z1c0d9](https://x.com/l9z1c0d9), [@ComfyLearn](https://x.com/ComfyLearn), [@SoftBrein](https://x.com/SoftBrein)  
-- **Website:** [SoftBrein](https://softbrein.tech/), [ComfyLearn](https://comfylearn.site/), [ComfyLearn Blog](https://blog.comfylearn.site/)  
+- **Website:** [SoftBrein](https://softbrein.com/), [ComfyLearn](https://comfylearnhub.com/), [ComfyLearn Blog](https://blog.comfylearnhub.com/)  
 
 ---
 
